@@ -1,0 +1,1809 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.8.4",
+    "versionPublish": "3.12.1",
+    "name": "Dog Grooming Website",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "path": "file:///C:/Users/Mickhael/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-01-26_211140",
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 0
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Beautifur Dog Grooming Salon and Spa in Saint Cloud, Florida 34771",
+        "meta_descr": "Beauti-fur is an all breed grooming salon & spa for dogs. We offer a variety of services and products to keep your furry canine companions looking their best. Located in Saint Cloud, Florida 34771",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#019091"
+            },
+            ".mbr-navbar__section": {
+              "background": "#019091"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "color": "#019091",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-beautifur-dog-salon-spa-logo-200wpxl-200x200-1.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Beautifur Dog Grooming Salon and Spa Logo",
+              "link": "index.html",
+              "title": "Beautifur Dog Grooming Salon and Spa Saint Cloud Florida 34771",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-18\">SERVICES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-16\">PRODUCTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"dog-grooming-clients.html\">CLIENTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-15\">LOCATION</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-14\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "form": {
+            "title": "MESSAGE",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "First Name",
+                "customTitle": "First Name"
+              },
+              "lastName": {
+                "title": "Last Name",
+                "visible": true,
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "title": "Email Address",
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "title": "Phone No.",
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "_anchor": "header1-10",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-beautifur-dog-grooming-salon-spa-main-header-1735x750-71.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "FULL-SCREEN HEADER",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#018f90",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-13",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": true,
+            "darkBackground": false
+          },
+          "title": "BEAUTI*FUR&nbsp;<br>A Salon &amp; Spa For Dogs&nbsp;",
+          "meta": "Owned &amp; Operated By &nbsp;<a href=\"index.html#msg-box4-10\">Catrina Fornes</a>",
+          "text": "<p>Beauti-fur is an all-breed grooming salon &amp; spa for dogs. We offer a variety of services and products to keep your furry canine companions looking their very best.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-grooming-clients.html\" data-toolbar=\"-mbrBtnMove\">SEE SOME OF OUR FURRY CLIENTS</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "17px"
+            },
+            ".mbr-article H2": {
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            ".mbr-article H3": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-10",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#019091",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/catrina-frankie-426x640-94.jpg",
+              "link": "dog-grooming-clients.html",
+              "alt": "Catrina Fornes, Owner at Beautifur Dog Grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "<br><br><br><span style=\"font-family: inherit; line-height: 1.5em;\">ABOUT THE OWNER&nbsp;</span><br>",
+          "meta": "Owned and operated by &nbsp;Catrina &nbsp;Fornes",
+          "text": "<p><p></p><p></p><p></p><p>My name is Catrina Fornes, I have been happily married to my husband Mike since 1997. We don't have human children we have pets instead. Currently we have three dogs, Frankie (seen in photo), Fionna and Floyd and two cats, poncho and lefty.</p><h2><b>EDUCATION</b></h2>I received my initial professional dog grooming education and training an the Central Florida School Of Dog Grooming, graduating in June 2000.  Since then I have owned and operated my dog grooming buiness providing services to thousands of furry clients. Several times yearly I attend continuing education training seminars or industry trade shows to keep abreast of the newest advances in dog care and grooming techniques. I am a current member of the national dog groomers Association of America and am also certified in Pet First Aid and CPR.</p><p><p></p><p></p><p></p><p></p><div><b><br></b></div><div><b><a href=\"index.html#msg-box5-14\" class=\"text-white\">LEARN MORE ABOUT OUR SALON FOR DOGS</a></b></div><br><b></b><div><p><br></p></div><p></p><p></p><p></p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "16px"
+            },
+            ".mbr-article H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-14",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "ABOUT OUR SALON FOR DOGS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h3><b>Caring</b></h3><p>We believe your canine companions are an integral part of your family and that is how we treat every pet that comes to our salon. We truly enjoy meeting each new pet and getting to know their individual personalities and grooming needs. We don't believe in getting upset, frustrated or rough with pets, period. We desire that each dog leave our salon having had an excellent experience that leaves them with a sense of belonging and calm on their next visit.</p><h3><b>Cleanliness</b></h3><p>We pride ourselves on the cleanliness of our salon and equipment and, in fact, it is one of the kind compliments we hear most often from our customers.  We take great care to sanitize all salon service equipment between each pet, ensuring that your dog will be groomed with tools that have been thoroughly disinfected before being used on them. We hold that same high standard to all aspects of cleaning every surface of the Beauti-Fur salon, ensuring a santiary condition of the floor, the grooming table, the grooming brushes and blades that used on your dog.</p><h3><b>Customer Service</b></h3><p>In our opinion, great customer service starts with understanding communication, whereby, we focus on listening to your wants and assessing your dog's needs. We start by asking each new client exactly how they would like their pet to be trimmed and even showing them pictures of similar styles so that you, the pet parent, will have a clear visual idea of what to expect the cut to look like in the finished product. Occasionally, we will have to explain why a certain style may not work for a particular dog. We are frequently surprised at how often customers have told me that no other groomers have taken the time to patiently listen and make educated suggestions before servicing their dog. We truly believe most mistakes can be avoided through clear and simple communication.</p><h3><b>Continuing Education</b></h3><p>It is unfortunate that the grooming industry is currently unregulated allowing anyone to become a pet groomer or grooming shop owner with little or no training, experience and specific skill sets. This is a very unsettling fact, not knowing with whom you can entrust to provide grooming care and service for your canine companion. Rest assured that we attend a minimum of two continuing education seminars a year to stay current on new grooming proceedures and dog care products, ensuring that our advanced techiques result in a better, faster, safer and more enjoyable experience for your pet.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>5/5 Star Rating</b></p><p class=\"mbr-reviews__p\">\"Just returned from the groomers. I decided to change Groomers. Shampoodle just got too expensive. Pups needed a change. When I found out she is located at a residence I was hesitant. But omg. Catrina has a separate fully functioning salon. As nice as any in St Cloud. Pups were so happy there. Very clean and safe. The owner Catrina is awesome with doggies. Puppies had no anxiety. Super fab cuts. Thank you.\"</p>",
+              "authorName": "Jeffrey Foster",
+              "authorBio": "February 2, 2016<br><br><b><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/reviews/\" target=\"_blank\">View More Testimonials</a></b>"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>5/5 Star Rating</b></p><p class=\"mbr-reviews__p\">\"Thank you so much for doing such a great job with Marley. He's usually full of anxiety when picked up from the groomers...but here it was like he was at home.\"</p>",
+              "authorName": "Madeline Aka-Maddie",
+              "authorBio": "December 31, 2015<br><br><b><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/reviews/\" target=\"_blank\">View More Testimonials</a></b>"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>5/5 Star Rating</b></p><p class=\"mbr-reviews__p\">\"I am so happy we came here. I have literally tried 5 different groomers since we moved to Florida a year ago and none have worked out for Ace. Catrina did a wonderful job on Ace's haircut and from what my husband told me at pick up he was calm and seemed to really like her. He usually is very stressed upon pickup and panting. I am very pleased And would definitely recommend coming here with your fur babies.\"</p>",
+              "authorName": "<div>Molly Cerrone</div>",
+              "authorBio": "October 2, 2015<br><br><b><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/reviews/\" target=\"_blank\" class=\"text-primary\">View More Testimonials</a></b>"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__author-name": {
+              "font-size": "20px"
+            },
+            ".mbr-section__header": {
+              "color": "#018f90"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>5/5 Star Rating</b></p><p class=\"mbr-reviews__p\">\"Just returned from the groomers. I decided to change Groomers. Shampoodle just got too expensive. Pups needed a change. When I found out she is located at a residence I was hesitant. But omg. Catrina has a separate fully functioning salon. As nice as any in St Cloud. Pups were so happy there. Very clean and safe. The owner Catrina is awesome with doggies. Puppies had no anxiety. Super fab cuts. Thank you.\"</p>",
+              "authorName": "Jeffrey Foster",
+              "authorBio": "February 2, 2016<br><br><b><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/reviews/\" target=\"_blank\">View More Testimonials</a></b>"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>5/5 Star Rating</b></p><p class=\"mbr-reviews__p\">\"Thank you so much for doing such a great job with Marley. He's usually full of anxiety when picked up from the groomers...but here it was like he was at home.\"</p>",
+              "authorName": "Madeline Aka-Maddie",
+              "authorBio": "December 31, 2015<br><br><b><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/reviews/\" target=\"_blank\">View More Testimonials</a></b>"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>5/5 Star Rating</b></p><p class=\"mbr-reviews__p\">\"I am so happy we came here. I have literally tried 5 different groomers since we moved to Florida a year ago and none have worked out for Ace. Catrina did a wonderful job on Ace's haircut and from what my husband told me at pick up he was calm and seemed to really like her. He usually is very stressed upon pickup and panting. I am very pleased And would definitely recommend coming here with your fur babies.\"</p>",
+              "authorName": "<div>Molly Cerrone</div>",
+              "authorBio": "October 2, 2015<br><br><b><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/reviews/\" target=\"_blank\" class=\"text-primary\">View More Testimonials</a></b>"
+            }
+          ],
+          "_anchor": "testimonials1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "3",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "WHAT OUR AWESOME CUSTOMERS SAY"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "form": {
+            "title": "SUBSCRIBE",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Full Name",
+                "customTitle": "Full Name"
+              },
+              "email": {
+                "title": "Email",
+                "customTitle": "Email Address here"
+              }
+            }
+          },
+          "_anchor": "header4-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-dog-spa-2788x1763-0.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "BEAUTI*FUR <br>DOG SPA EXPERIENCE",
+          "text": "We want your furry family member to have an incredibly enjoyable and calming experience while receiving services within our full-service salon &amp; spa for dogs...",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"index.html#msg-box1-18\" data-toolbar=\"-mbrBtnMove\">OUR GROOMING SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#msg-box1-16\" data-toolbar=\"-mbrBtnMove\">OUR DOG CARE PRODUCTS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-18",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "BEAUTI*FUR&nbsp;<span style=\"font-family: inherit; line-height: 1.5em;\">DOG GROOMING SERVICES</span>",
+          "text": "Please note that the price ranges listed below for each salon and spa service are only general estimates and that the actual set price will be determined upon consulting with you and assessing the needs of your dog in person. Most services require an appointment during our business hours of 8am - 5pm, Tuesday - Saturday. &nbsp;Typically, we schedule the last dog grooming appointment between 2:00pm ans 3:00pm, depending on the size of the dog and the grooming services required. <br><br>No appointment is neccesary for nail trimming services only, however, we encourage customers to call in advance ensuring we have the appropriate amount of time to perform the service effectively for your dog breed.<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">DOG GROOM SERVICES</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#018f90",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-9",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-a-bath-big-450x166-52.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-grooming-services.html",
+              "alt": "Bath Shampoo Services at Beautifur Dog Grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "DOG BATH &amp; <br>BRUSH SERVICE",
+          "caption1": "Great for dogs who need just a bath to maintain a healthy-looking coat, trimmed nails, clean ears and teeth. Perfect for consistently maintaining the hygiene health of short-haired dogs, such as, Frenchies, Boston Terriers, Beagles, Chihuahuas, English Bulldogs, Pugs, Dachshunds, etc.<br><br><b>Service includes:</b><br>- Oxygen-infused bath<br>- Deep-cleansing shampoo<br>- Mositurizing conditioner<br>- Thorough blow-dry &amp; brush-out<br>- Detailed nail trim<br>- Ear cleaning w/ hair removal &amp; hygienic wipe<br>- Scissoring feet &amp; pad shaving<br>- Sanitary hygiene trim<br>- Whitening gel with tartar control teeth treament (preventative-only)<br>- Fresh mint breath spray<br>- Scented cologne spritz<br>- Bandana or bow<br><br><b>Pricing:<br>All breeds $23 - $27</b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">REQUEST APPOINTMENT</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-a-nailclipping-big-719x264-35.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-grooming-services.html",
+              "alt": "Nail Trimming Services at Beautifur Dog Grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "COMPLETE DOG <br>GROOMING SERVICE",
+          "caption2": "We groom your dog hair utlizing the modern 'Hair-Vac' Clipper System - the most advanced equipment available for fast, quiet, cool, accurate and clean trimming and sculpting.  The HairVac Clipper System literally removes the cut hair from the fur as we sculpt and trim your dog, then safely deposits it in a sanitary closed container.  Shy dogs love the HairVac Clipper as it is extremely quiet and feels like a massage, rather that hair removal.<br><br><b>Service includes:</b><br>- Oxygen-infused bath<br>- Deep-cleansing Shampoo<br>- Moisturizing conditioner<br>- Thorough blow-dry and brush-out<br>- Professional precision haircut<br>- Detailed nail trim<br>- Ear cleaning with hair removal &amp; hygienic wipe<br>- Scissoring feet &amp; pad shaving<br>- Sanitary hygiene trim<br>- Whitening gel with tartar control teeth treament (preventative-only)<br>- Fresh mint breath spray<br>- Scented cologne spritz<br>- Bandana or bow<br><br><b>Pricing:<br>* Small Dogs $40 - $45 </b><br>(i.e. - Yorkies, Mini/Toy Poodles, Maltese, Shitzou, etc.)<br><br><b>* Medium Dogs $50 - $55</b> <br>(i.e. - Cocker Spaniel, Bichon, Shetland Collie etc.)<br><br><b>* Large Dogs $55 - $70</b> <br>(i.e. - Standard Poodles, Austrailian Shepherds, Border Collies, etc.)<br><br><b>* Giant Dogs $70 - $100</b> <br>(i.e. - New Foundlands, St. Bernards, Great Pyrnees, etc.)<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">REQUEST APPOINTMENT</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-a-deshedding-big-450x166-28.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-grooming-services.html",
+              "alt": "deshedding Brush Services at Beautifur Dog Grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "DOG DE-SHEDDING <br>MUD BATH",
+          "caption3": "The de-shedding Mud is applied to your dog after a regular bath and has a sit time of 10 minutes. During that time we provide your dog with a relaxing hand massage to work the mud thoroughly through the coat to loosen the dead hair. After which your dog is rinsed, dried and a de-shedding tool is used to finish up. Our De-Shedding Mud is all-natural and detergent-free. It will rejuvenate your dog’s skin and coat and help relieve and prevent excessive shedding while promoting healthy coat and skin. <br><br><b>Special Note:</b> While there is no product or service available on the market that will completely stop shedding 100%, this particualr product and service will greatly reduce the amount of shedding by approximately 90%. This service is most efective when performed on a monthly basis to coincide with the natural cycle of hair growth.<br><br><b>Pricing:<br>* Small breed $8<br>* Medium breed $12<br>* Large breed $15</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">REQUEST APPOINTMENT</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-a-toothbrushing-big-450x166-77.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-grooming-services.html",
+              "alt": "teeth cleaning, fresh beath at Beautifur Dog Grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "DOG TEETH TREATMENT &amp; BREATH FRESHENING",
+          "caption4": "We use a natural whitening gel with tartar control (preventative-only), plus a minty breath freshener. This is primarily a breath freshing service as we do not see the pet frequently enough to thoroughly remove built-up tartar.<br><br><b>Service includes:</b><br>- Whitening &amp; tartar control treatment (preventative-only)<br>- Minty breath freshener<br><br><b>Pricing:<br>All breeds $5</b><br><b><br></b><b>________________</b><br><b><br>DOG FLEA BATH SERVICE</b><br><br><b>&nbsp;</b>Service only provided if fleas are found present on dog.  An all-natural, citrus-based treatment shampoo is used.<br><br><b>Pricing:<br>All breeds $8</b><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">REQUEST APPOINTMENT</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-16",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "BEAUTI*FUR CANINE CARE PRODUCTS",
+          "text": "We have taken great care and much time in researching the very best dog care products that we trust will be safe for your dog and will provide the best results to suit their specific needs.  These are products we trust to use within the salon on the dogs and puppies we service, as well as, offering these products for client purchase so they may provide ongoing maintenance for their dogs between grooming visits.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html#features1-18\" data-toolbar=\"-mbrBtnMove\">DOG CARE PRODUCTS</a>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#252525"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "20px",
+              "color": "#252525"
+            }
+          },
+          "_anchor": "features1-18",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beautifur-dog-puppy-grooming-shop-services-header-48-3629x2420-53.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": ""
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#efefef",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mauro-dog-care-logo-200wpxl-200x160-52.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-care-products.html",
+              "alt": "Mauro Dog Care Grooming Products Logo",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "MAURO NATURA<br>DOG CARE",
+          "caption1": "We have personally met with Mauro, the man who invented thIS specialized product line -&nbsp;Mauro Pet Care is one of the most sought-after dog hair care brands in the industry today boasting a holistic line of all naturally sourced treatments.",
+          "button1": "<a data-app-btn=\"true\" href=\"dog-care-products.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">VIEW PRODUCTS</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/madra-mor-mud-for-dogs-logo-200wpxl-200x160-3.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-care-products.html",
+              "alt": "Madra Mor Dog Grooming Mud ",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "MADRA MOR MUD<br>CANINE CARE&nbsp;",
+          "caption2": "Nature's Way to Clean, Treat &amp; Relieve Four Different Hot Spots in Dogs - Madra Mór Canine Dry Skin Remedies Are Formulated to Cleanse, Protect, and Rejuvenate Your Canine Companion’s Skin &amp; Coat.",
+          "button2": "<a data-app-btn=\"true\" href=\"dog-care-products.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">VIEW PRODUCTS</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/petzlife-dog-care-grooming-logo-200x160-90.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "dog-care-products.html",
+              "alt": "Petzlife Dog Care Grooming Products",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "PETZLIFE ORAL <br>DOG CARE",
+          "caption3": "PetzLife Oral Dog Care is a complete, all-natural solution to your pet’s oral care needs.  It is guaranteed to break down plaque and tartar, work under the gum line to help heal gum tissue, and kill the bacteria that causes bad breath.  So whether your dog has bad tartar build-up, has red inflamed gums, or just plain old stinky breath…. PetzLife is your solution!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">VIEW PRODUCTS</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#019091",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-14",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2fa215r-1600x525-80.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "info@beauti-fur.info",
+            "alerts": {
+              "success": "Thank you for contacting Beautifur Dog Grooming Salon & Spa! We appreciate you and will respond to your query within 24 hours or less!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message &/or Appointment Date/Time Request"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "text": "The Empire State Building was designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon.",
+          "_name": "map1",
+          "coord": [
+            28.2677303,
+            -81.24366379999998
+          ],
+          "_anchor": "map1-15",
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJtcaxrqlZwokRfwmmibzPsTU",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2109128-980x377-77.jpg",
+            "bgColor": "#019091",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#019091"
+          },
+          "text": "<p>Copyright (c) 2016 Beauti-fur, LLC - All Rights Reserved. &nbsp;&nbsp;<a href=\"http://www.google.com/intl/en/policies/terms/\" target=\"_blank\" class=\"text-white\">Terms of Service</a><a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\"></a>  | <a class=\"mbr-footer__link text-white\" href=\"https://www.google.com/intl/en-GB/policies/privacy/\" target=\"_blank\">Privacy Policy</a></p>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/beautifur-logo-icons-250wpxl-250x250-98.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "Logo at Beautifur Dog grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>ADDRESS</strong><br>4831 Rummell Road<br>Saint Cloud, Florida 34771<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: Info@Beauti-Fur.Info<br>\nPhone: +1 407.498.0652<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong style=\"line-height: 1.7em;\">LINKS</strong><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/\" target=\"_blank\" class=\"text-white\">Beauti-Fur Facebook</a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.orangecountyfl.net/AnimalsPets/AdoptaPet.aspx\" target=\"_blank\" class=\"text-white\">Orange County Pet Adoption</a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://petallianceorlando.org/pet-services/adopting-pet/\" target=\"_blank\" class=\"text-white\">Orlando Pet Alliance </a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "form2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            }
+          },
+          "_anchor": "form2-19",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "form": {
+            "action": "info@beauti-fur.info",
+            "alerts": {
+              "success": "Thank you for signing up for the Beauti-Fur Dog Salon & Spa Newsletter.  Periodically, we will announce new services and products, along with special discount coupons!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#019091",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "social-buttons1-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE US WITH YOUR FRIENDS ONLINE!"
+        }
+      ]
+    },
+    "dog-care-products.html": {
+      "settings": {
+        "title": "Pet Care Products at Beautifur Dog Grooming Salon and Spa...",
+        "meta_descr": "Beautifur has spent much time in researching the very best dog care products that we trust will be safe for your dog and will provide the best results to suit their specific needs."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#019091"
+            },
+            ".mbr-navbar__section": {
+              "background": "#019091"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "color": "#019091",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-beautifur-dog-salon-spa-logo-200wpxl-200x200-1.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Beautifur Dog Grooming Salon and Spa Logo",
+              "link": "index.html",
+              "title": "Beautifur Dog Grooming Salon and Spa Saint Cloud Florida 34771",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-18\">SERVICES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-16\">PRODUCTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"dog-grooming-clients.html\">CLIENTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-15\">LOCATION</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-14\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/beautifur-dog-puppy-grooming-shop-services-header-44-2733x1536-46.jpg",
+                "showTitle": true,
+                "title": "Mauro Natural<br>Dog Care",
+                "showText": true,
+                "text": "Mauro Pet Care is one of the most sought-after dog hair care brands in the industry today boasting a holistic line of all naturally sourced treatments.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">PURCHASE PRODUCTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dog-care-products.html#msg-box5-30\" data-toolbar=\"-mbrBtnMove\">VIEW PRODUCT VIDEO</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/beautifur-dog-puppy-grooming-shop-services-header-29-3372x2240-87.jpg",
+                "showTitle": true,
+                "title": "<p>Madra Mor</p><p>Dog Care</p>",
+                "showText": true,
+                "text": "Cleanse | Protect | Rejuvenate<br>Nature's Way to Clean, Treat &amp; Relieve Four Different Hot Spots in Dogs - Madra Mór Canine Dry Skin Remedies Are Formulated to Cleanse, Protect, and Rejuvenate Your Canine Companion’s Skin &amp; Coat.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">PURCHASE PRODUCTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dog-care-products.html#msg-box5-31\" data-toolbar=\"-mbrBtnMove\">VIEW PRODUCT VIDEO</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/beautifur-dog-puppy-grooming-shop-services-header-19-4137x2514-94.jpg",
+                "showTitle": true,
+                "title": "<p>PetzLife&nbsp;<br>Oral Pet Care</p>",
+                "showText": true,
+                "text": "PetzLife Oral Dog Care is a complete, all-natural solution to your pet’s oral care needs.  It is GUARANTEED to break down plaque and tartar, work under the gum line to help heal gum tissue, and kill the bacteria that causes bad breath.  So whether your pet has bad tartar build-up, has red inflamed gums, or just plain old stinky breath…. PetzLife is your solution!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">PURCHASE PRODUCTS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dog-care-products.html#msg-box5-32\" data-toolbar=\"-mbrBtnMove\">VIEW PRODUCT VIDEO</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-29",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#777777"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-30",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/0GKl1DZccKY",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "MAURO NATURAL DOG CARE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We have personally met with Mauro, the man who invented this specialized product line, consulting with him about each product he created to ensure they would meet the specific requirements of our dog salon clientelle.  We trust Mauro Pet Care Products to use while grooming your dog within the Beauti-Fur salon and recommend it for your home use in between service visits.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">PURCHASE PRODUCTS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-31",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/f_EF1evf8-4",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "MADRA MOR CANINE CARE MUD",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Shed Safely Mud is a deep cleaning, sweet smelling mud bath, that flows with hydrating omega oils and is pumped full of B vitamins to help prevent excessive shedding. Quench in hydration as often as needed, ideal for thick coats!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">PURCHASE PRODUCTS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#777777"
+            }
+          },
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-32",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/a2vOJmNeiIE",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "PETZLIFE ORAL PET CARE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>PetzLife Oral Dog Care is a complete, all-natural solution to your pet’s oral care needs.  It is GUARANTEED to break down plaque and tartar, work under the gum line to help heal gum tissue, and kill the bacteria that causes bad breath.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">PURCHASE PRODUCTS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-33",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "BEAUTI-FUR<br>DOG CARE PRODUCTS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>We have taken great care and much time in researching the very best dog care products that we trust will be safe for your dog and will provide the best results to suit their specific needs. These are products we trust to use within the salon on the dogs and puppies we service, as well as, offering these products for client purchase so they may provide ongoing maintenance for their dogs between grooming visits.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dog-care-products.html#msg-box3-34\" data-toolbar=\"-mbrBtnMove\">VIEW ALL PRODUCTS</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-34",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "MODERN STYLES",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/beautifur-logo-icons-250wpxl-250x250-98.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "Logo at Beautifur Dog grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>ADDRESS</strong><br>4831 Rummell Road<br>Saint Cloud, Florida 34771<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: Info@Beauti-Fur.Info<br>\nPhone: +1 407.498.0652<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong style=\"line-height: 1.7em;\">LINKS</strong><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/\" target=\"_blank\" class=\"text-white\">Beauti-Fur Facebook</a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.orangecountyfl.net/AnimalsPets/AdoptaPet.aspx\" target=\"_blank\" class=\"text-white\">Orange County Pet Adoption</a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://petallianceorlando.org/pet-services/adopting-pet/\" target=\"_blank\" class=\"text-white\">Orlando Pet Alliance </a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "form2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            }
+          },
+          "_anchor": "form2-37",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "form": {
+            "action": "info@beauti-fur.info",
+            "alerts": {
+              "success": "Thank you for signing up for the Beauti-Fur Dog Salon Newsletter.  Periodically, we will announce new services and products, along with special discount coupons!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            }
+          },
+          "_anchor": "social-buttons1-38",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE US WITH YOUR FRIENDS ONLINE!"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2109128-980x377-77.jpg",
+            "bgColor": "#019091",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#019091"
+          },
+          "text": "<p>Copyright (c) 2016 Beauti-fur, LLC - All Rights Reserved. &nbsp;&nbsp;<a href=\"http://www.google.com/intl/en/policies/terms/\" target=\"_blank\" class=\"text-white\">Terms of Service</a><a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\"></a>  | <a class=\"mbr-footer__link text-white\" href=\"https://www.google.com/intl/en-GB/policies/privacy/\" target=\"_blank\">Privacy Policy</a></p>"
+        }
+      ]
+    },
+    "dog-grooming-clients.html": {
+      "settings": {
+        "title": "Client Gallery at Beautifur Dog grooming Salon and Spa...",
+        "meta_descr": "Photo Gallery Of Clients  at Beautifur Dog grooming Salon and Spa."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#019091"
+            },
+            ".mbr-navbar__section": {
+              "background": "#019091"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "color": "#019091",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1-beautifur-dog-salon-spa-logo-200wpxl-200x200-1.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Beautifur Dog Grooming Salon and Spa Logo",
+              "link": "index.html",
+              "title": "Beautifur Dog Grooming Salon and Spa Saint Cloud Florida 34771",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-10\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-18\">SERVICES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-16\">PRODUCTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"dog-grooming-clients.html\">CLIENTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#map1-15\">LOCATION</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-14\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>"
+        },
+        {
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "25px",
+              "color": "#ffffff"
+            }
+          },
+          "_name": "video1",
+          "_anchor": "video1-19",
+          "_params": {
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/UXduJ9w0UMw",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "BEAUTI*FUR SLOW MOTION SHOW-OFFS OF THE MONTH"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-25",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "BEAUTI*FUR CLIENT BEFORE &amp; AFTERS",
+          "text": "Below you can view a few of the amazing transformations we have created for a few of our regular canine clients. &nbsp;We love being able to place a smile on the human's face and a wag on the client's tail when we have the opportunity to perform such drastic creations. &nbsp;However, we derive as much joy and satisfaction from grooming our short-haired clients from head to toe as well! &nbsp;Be sure to ask about our bling accessories we now offer as a finishing fashion flair!",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW EVEN MORE CLIENTS</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-before-960x720-94-960x720-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-before-960x720-94.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-before-after-960x720-86-960x720-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-before-after-960x720-86.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-buttercup-before-960x720-47-960x720-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-buttercup-before-960x720-47.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-buttercup-960x720-77-960x720-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-buttercup-960x720-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-chloe2-before-960x720-12-960x720-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-chloe2-before-960x720-12.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-chloe2-after-960x720-25-960x720-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-chloe2-after-960x720-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-daisy-mae-before-960x720-58-960x720-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-daisy-mae-before-960x720-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-daisy-mae-after-960x720-82-960x720-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-daisy-mae-after-960x720-82.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-dog-before-960x720-48-960x720-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-dog-before-960x720-48.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-dog-after-960x720-97-960x720-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-dog-after-960x720-97.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-hershey2-before-960x720-42-960x720-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-hershey2-before-960x720-42.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-hershey-after-960x720-68-960x720-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-hershey-after-960x720-68.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-lola-before-960x720-87-960x720-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-lola-before-960x720-87.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-lol-after-960x720-95-960x720-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-lol-after-960x720-95.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-oreo-before-960x720-58-960x720-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-oreo-before-960x720-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-oreo-after-960x720-39-960x720-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-oreo-after-960x720-39.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-raleigh2-before-960x720-42-960x720-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-raleigh2-before-960x720-42.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-raleigh2-960x720-54-960x720-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-raleigh2-960x720-54.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-lucy2-before-960x720-34-960x720-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-lucy2-before-960x720-34.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-lucy2-960x720-13-960x720-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-lucy2-960x720-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-lizzie-before-960x720-44-960x720-2.png",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-lizzie-before-960x720-44.png",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/lizzy-after-960x720-28-960x720-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lizzy-after-960x720-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-spartacus-bear-before-960x720-76-960x720-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-spartacus-bear-before-960x720-76.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beautifur-spartacus-bear-after-960x720-28-960x720-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beautifur-spartacus-bear-after-960x720-28.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-20",
+          "articleLayout": true
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#018f90",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/beautifur-logo-icons-250wpxl-250x250-98.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "Logo at Beautifur Dog grooming Salon and Spa",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong><br></strong><br><strong><br></strong><strong>ADDRESS</strong><br>4831 Rummell Road<br>Saint Cloud, Florida 34771<br>",
+          "text2": "<strong><br></strong><br><strong><br></strong><strong>CONTACTS</strong><br>\nEmail: Info@Beauti-Fur.Info<br>\nPhone: +1 407.498.0652<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong style=\"line-height: 1.7em;\">LINKS</strong><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/Beauti-Fur-Grooming-126994654020309/\" target=\"_blank\" class=\"text-white\">Beauti-Fur Facebook</a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.orangecountyfl.net/AnimalsPets/AdoptaPet.aspx\" target=\"_blank\" class=\"text-white\">Orange County Pet Adoption</a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://petallianceorlando.org/pet-services/adopting-pet/\" target=\"_blank\" class=\"text-white\">Orlando Pet Alliance </a><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2109128-980x377-77.jpg",
+            "bgColor": "#019091",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#019091"
+          },
+          "text": "<p>Copyright (c) 2016 Beauti-fur, LLC - All Rights Reserved. &nbsp;&nbsp;<a href=\"http://www.google.com/intl/en/policies/terms/\" target=\"_blank\" class=\"text-white\">Terms of Service</a><a class=\"mbr-footer__link text-white\" href=\"https://mobirise.com/\"></a>  | <a class=\"mbr-footer__link text-white\" href=\"https://www.google.com/intl/en-GB/policies/privacy/\" target=\"_blank\">Privacy Policy</a></p>"
+        },
+        {
+          "_name": "form2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            }
+          },
+          "_anchor": "form2-23",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "form": {
+            "action": "info@beauti-fur.info",
+            "alerts": {
+              "success": "Thank you for signing up for the Beauti-Fur Dog Salon Newsletter.  Periodically, we will announce new services and products, along with special discount coupons!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#018f90"
+            }
+          },
+          "_anchor": "social-buttons1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE US WITH YOUR FRIENDS ONLINE!"
+        }
+      ]
+    }
+  }
+}
